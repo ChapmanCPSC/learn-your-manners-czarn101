@@ -13,6 +13,7 @@
 		50B97D481CC34C1600A6940B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50B97D471CC34C1600A6940B /* Assets.xcassets */; };
 		50B97D4B1CC34C1600A6940B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50B97D491CC34C1600A6940B /* LaunchScreen.storyboard */; };
 		50B97D531CC34DAD00A6940B /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50B97D521CC34DAD00A6940B /* TableViewController.swift */; };
+		50FBC91F1CC9A145009D0CF1 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50FBC91E1CC9A145009D0CF1 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		50B97D4A1CC34C1600A6940B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		50B97D4C1CC34C1600A6940B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		50B97D521CC34DAD00A6940B /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		50FBC91E1CC9A145009D0CF1 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				50B97D401CC34C1600A6940B /* AppDelegate.swift */,
 				50B97D421CC34C1600A6940B /* ViewController.swift */,
 				50B97D441CC34C1600A6940B /* Main.storyboard */,
+				50FBC91E1CC9A145009D0CF1 /* SettingsViewController.swift */,
 				50B97D521CC34DAD00A6940B /* TableViewController.swift */,
 				50B97D471CC34C1600A6940B /* Assets.xcassets */,
 				50B97D491CC34C1600A6940B /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				50B97D431CC34C1600A6940B /* ViewController.swift in Sources */,
 				50B97D531CC34DAD00A6940B /* TableViewController.swift in Sources */,
 				50B97D411CC34C1600A6940B /* AppDelegate.swift in Sources */,
+				50FBC91F1CC9A145009D0CF1 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,6 +296,7 @@
 				50B97D511CC34C1600A6940B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
